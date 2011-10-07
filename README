@@ -1,0 +1,5 @@
+This is an example of how to integrate JAX-RS/Jersey into Jenkins to serve HTTP requests and Jelly views.
+
+License is Apache 2.
+
+Copyright (c) 2011 CloudBees.
